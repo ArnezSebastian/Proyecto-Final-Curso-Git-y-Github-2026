@@ -15,7 +15,7 @@ Este es un **grupo de desarrollo teórico/practico**.
 
 La mayor parte de lo aprendido y desarrollado fue mediante sobre repositorios de prueba privados y actividades practicas.
 
-La trabajo se gestiona de esta manera:
+El trabajo se gestiona de esta manera:
 
 ```text
 Concepto
@@ -33,7 +33,7 @@ Resolución
 Comprensión
 ```
 
-Muchos de nuestro errores se solucionan entre nosotros, lo que brinda una mejor comprensión de los mismo.
+Muchos de nuestro errores se solucionan entre nosotros, lo que brinda una mejor comprensión de los mismos.
 
 ---
 
@@ -57,11 +57,9 @@ git-y-github/
 
 ---
 
-## Dentro del repositorio
+## Archivos del repositorio
 
-```text
-Estas son las descripciones de cada apartado.
-```
+**Estas son las descripciones de cada apartado.**
 
 ### `README.md`
 
